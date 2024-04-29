@@ -31,13 +31,16 @@ header {
   padding: 15px 20px;
 }
 .button {
-  background: purple;
+  background: #312656;
   padding: 15px 20px;
   margin-left: 5px;
   font-size: 16px;
   border: none;
   border-radius: 6px;
   color: white;
+}
+a {
+  color: #312656;
 }
 footer {
   border-top: 1px solid grey;
@@ -72,15 +75,13 @@ main {
 .temp-icon {
   width: 88px;
   height: 88px;
-  margin-top: 22px;
 }
 .app-temp {
   font-size: 88px;
   font-weight: bold;
   line-height: 88px;
-  margin-left: 10px;
 }
 .app-unit {
-  margin-top: 10px;
+  margin-top: 6px;
   font-size: 28px;
 }
