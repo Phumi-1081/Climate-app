@@ -67,7 +67,7 @@ main {
   font-weight: 500;
 }
 .app-details strong {
-  color: pink;
+  color: #f77e7e;
 }
 .temp-container {
   display: flex;
